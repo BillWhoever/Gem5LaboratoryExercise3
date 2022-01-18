@@ -1,0 +1,4 @@
+Reading simulation time from: ./McPatOutput/results429mcf4.txt
+Reading simulation time from: ./gem5Output/429mcf/4/stats.txt
+leakage: 2.576450 W, dynamic: 0.516166 W and runtime: 0.113766 sec
+energy is 351.834552 mJ
