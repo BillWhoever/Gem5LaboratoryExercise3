@@ -1,0 +1,4 @@
+Reading simulation time from: ./McPatOutput/results456hmmer1.txt
+Reading simulation time from: ./gem5Output/456hmmer/1/stats.txt
+leakage: 2.581230 W, dynamic: 0.581406 W and runtime: 0.118264 sec
+energy is 374.025984 mJ

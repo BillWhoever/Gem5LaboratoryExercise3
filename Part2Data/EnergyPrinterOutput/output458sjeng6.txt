@@ -1,0 +1,4 @@
+Reading simulation time from: ./McPatOutput/results458sjeng6.txt
+Reading simulation time from: ./gem5Output/458sjeng/6/stats.txt
+leakage: 3.042860 W, dynamic: 0.354570 W and runtime: 0.703833 sec
+energy is 2391.223349 mJ

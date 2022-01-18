@@ -1,0 +1,4 @@
+Reading simulation time from: ./McPatOutput/results401bzip29.txt
+Reading simulation time from: ./gem5Output/401bzip2/9/stats.txt
+leakage: 2.593010 W, dynamic: 0.532095 W and runtime: 0.153478 sec
+energy is 479.634865 mJ
