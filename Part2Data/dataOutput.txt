@@ -1,0 +1,1806 @@
+------ Machine #0 ------
+--- Benchmark: 401bzip2 - CPI =  1.60383 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.85762 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.186285 W
+- Energy -  energy is 813.284810 mJ
+--- Benchmark: 429mcf - CPI =  1.10248 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.85455 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.00910992 W
+- Energy -  energy is 538.886712 mJ
+--- Benchmark: 456hmmer - CPI =  1.17723 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 2.10352 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.00722684 W
+- Energy -  energy is 604.462870 mJ
+--- Benchmark: 458sjeng - CPI =  3.71585 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.51223 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.116216 W
+- Energy -  energy is 1735.677251 mJ
+--- Benchmark: 470lbm - CPI =  1.65512 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.74124 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.0737266 W
+- Energy -  energy is 802.837473 mJ
+
+------ Machine #1 ------
+--- Benchmark: 401bzip2 - CPI =  1.53747 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.499585 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0104672 W
+- Energy -  energy is 479.262916 mJ
+--- Benchmark: 429mcf - CPI =  1.13880 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.500981 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.000868803 W
+- Energy -  energy is 353.673161 mJ
+--- Benchmark: 456hmmer - CPI =  1.18263 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.559397 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00024668 W
+- Energy -  energy is 374.025984 mJ
+--- Benchmark: 458sjeng - CPI =  7.05754 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.207781 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.025636 W
+- Energy -  energy is 2029.421792 mJ
+--- Benchmark: 470lbm - CPI =  2.62833 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.297759 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0079842 W
+- Energy -  energy is 772.186533 mJ
+
+------ Machine #2 ------
+--- Benchmark: 401bzip2 - CPI =  1.59488 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.415802 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0193497 W
+- Energy -  energy is 448.583068 mJ
+--- Benchmark: 429mcf - CPI =  1.13756 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.430686 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00107155 W
+- Energy -  energy is 319.200019 mJ
+--- Benchmark: 456hmmer - CPI =  1.18990 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.48201 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00270827 W
+- Energy -  energy is 340.093648 mJ
+--- Benchmark: 458sjeng - CPI =  7.05754 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.18007 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0256472 W
+- Energy -  energy is 1847.874082 mJ
+--- Benchmark: 470lbm - CPI =  2.63117 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.257798 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0080438 W
+- Energy -  energy is 702.117716 mJ
+
+------ Machine #3 ------
+--- Benchmark: 401bzip2 - CPI =  1.53748 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.499582 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0104686 W
+- Energy -  energy is 443.974563 mJ
+--- Benchmark: 429mcf - CPI =  1.13559 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.493406 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00170562 W
+- Energy -  energy is 325.841879 mJ
+--- Benchmark: 456hmmer - CPI =  1.18263 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.559389 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.000254125 W
+- Energy -  energy is 346.879665 mJ
+--- Benchmark: 458sjeng - CPI =  7.05756 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.20778 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0256361 W
+- Energy -  energy is 1867.427376 mJ
+--- Benchmark: 470lbm - CPI =  2.62833 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.297759 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0193248 W
+- Energy -  energy is 714.836635 mJ
+
+------ Machine #4 ------
+--- Benchmark: 401bzip2 - CPI =  1.56092 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.492039 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.0074136 W
+- Energy -  energy is 484.395309 mJ
+--- Benchmark: 429mcf - CPI =  1.13766 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.492507 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.000731789 W
+- Energy -  energy is 351.834552 mJ
+--- Benchmark: 456hmmer - CPI =  1.18262 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.559402 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.000178734 W
+- Energy -  energy is 373.450192 mJ
+--- Benchmark: 458sjeng - CPI =  7.05935 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.207727 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.0208712 W
+- Energy -  energy is 2023.243595 mJ
+--- Benchmark: 470lbm - CPI =  2.63077 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.297483 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.00777041 W
+- Energy -  energy is 771.599882 mJ
+
+------ Machine #5 ------
+--- Benchmark: 401bzip2 - CPI =  1.57986 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.486153 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.00532681 W
+- Energy -  energy is 488.872194 mJ
+--- Benchmark: 429mcf - CPI =  1.13940 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.491757 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.000648279 W
+- Energy -  energy is 352.090438 mJ
+--- Benchmark: 456hmmer - CPI =  1.18262 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.559402 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.000120289 W
+- Energy -  energy is 373.205506 mJ
+--- Benchmark: 458sjeng - CPI =  7.06012 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.207705 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.0168171 W
+- Energy -  energy is 2019.207734 mJ
+--- Benchmark: 470lbm - CPI =  2.63262 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.297274 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.00764785 W
+- Energy -  energy is 771.564619 mJ
+
+------ Machine #6 ------
+--- Benchmark: 401bzip2 - CPI =  1.52644 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.627496 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00768571 W
+- Energy -  energy is 565.397385 mJ
+--- Benchmark: 429mcf - CPI =  1.13392 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.611864 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00067579 W
+- Energy -  energy is 417.055032 mJ
+--- Benchmark: 456hmmer - CPI =  1.18216 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.69253 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.000166747 W
+- Energy -  energy is 444.178980 mJ
+--- Benchmark: 458sjeng - CPI =  7.03832 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.268131 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0254449 W
+- Energy -  energy is 2391.223349 mJ
+--- Benchmark: 470lbm - CPI =  2.62712 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.371406 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00793762 W
+- Energy -  energy is 912.449275 mJ
+
+------ Machine #7 ------
+--- Benchmark: 401bzip2 - CPI =  1.63820 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.252279 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.00626062 W
+- Energy -  energy is 330.179210 mJ
+--- Benchmark: 429mcf - CPI =  1.15266 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.28372 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.0005893 W
+- Energy -  energy is 234.703784 mJ
+--- Benchmark: 456hmmer - CPI =  1.18598 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.307516 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.000165917 W
+- Energy -  energy is 244.071482 mJ
+--- Benchmark: 458sjeng - CPI = 11.66498 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.0711894 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.00554513 W
+- Energy -  energy is 2186.346204 mJ
+--- Benchmark: 470lbm - CPI =  3.91979 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.112725 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.00464186 W
+- Energy -  energy is 747.404782 mJ
+
+------ Machine #8 ------
+--- Benchmark: 401bzip2 - CPI =  1.53311 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 1.27123 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.0253606 W
+- Energy -  energy is 1004.262590 mJ
+--- Benchmark: 429mcf - CPI =  1.11498 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 1.20803 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.00193643 W
+- Energy -  energy is 720.447672 mJ
+--- Benchmark: 456hmmer - CPI =  1.17817 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 1.3984 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.000437962 W
+- Energy -  energy is 783.488522 mJ
+--- Benchmark: 458sjeng - CPI =  5.01106 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 0.711896 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.0477418 W
+- Energy -  energy is 3025.861934 mJ
+--- Benchmark: 470lbm - CPI =  1.99147 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 0.96084 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.0174254 W
+- Energy -  energy is 1244.418099 mJ
+
+------ Machine #9 ------
+--- Benchmark: 401bzip2 - CPI =  1.53477 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.500792 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.0054123 W
+- Energy -  energy is 479.634865 mJ
+--- Benchmark: 429mcf - CPI =  1.13403 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.494643 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.000714191 W
+- Energy -  energy is 352.788681 mJ
+--- Benchmark: 456hmmer - CPI =  1.18143 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.560601 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 2.96883e-05 W
+- Energy -  energy is 375.154930 mJ
+--- Benchmark: 458sjeng - CPI =  7.03840 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.208611 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.0104919 W
+- Energy -  energy is 2022.206927 mJ
+--- Benchmark: 470lbm - CPI =  2.62076 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.298971 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.0079505 W
+- Energy -  energy is 773.380510 mJ
+
+------ Machine #10 ------
+--- Benchmark: 401bzip2 - CPI =  1.53304 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.562776 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.00524748 W
+- Energy -  energy is 432.092289 mJ
+--- Benchmark: 429mcf - CPI =  1.13387 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.550879 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.000706485 W
+- Energy -  energy is 317.346593 mJ
+--- Benchmark: 456hmmer - CPI =  1.18135 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.627432 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 7.67215e-06 W
+- Energy -  energy is 339.501954 mJ
+--- Benchmark: 458sjeng - CPI =  7.03865 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.234476 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.0106507 W
+- Energy -  energy is 1781.298606 mJ
+--- Benchmark: 470lbm - CPI =  2.62076 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.334798 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.00807119 W
+- Energy -  energy is 686.255441 mJ
+
+------ Machine #11 ------
+--- Benchmark: 401bzip2 - CPI =  1.53330 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.684361 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.00527964 W
+- Energy -  energy is 505.824863 mJ
+--- Benchmark: 429mcf - CPI =  1.13387 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.658608 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.000709866 W
+- Energy -  energy is 370.237786 mJ
+--- Benchmark: 456hmmer - CPI =  1.18134 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.761073 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 4.11821e-06 W
+- Energy -  energy is 397.664856 mJ
+--- Benchmark: 458sjeng - CPI =  7.03906 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.279748 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.0107879 W
+- Energy -  energy is 2065.876826 mJ
+--- Benchmark: 470lbm - CPI =  2.62076 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.40463 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.00817559 W
+- Energy -  energy is 798.598511 mJ
+
+------ Machine #12 ------
+--- Benchmark: 401bzip2 - CPI =  1.52692 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.39563 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0135256 W
+- Energy -  energy is 759.740423 mJ
+--- Benchmark: 429mcf - CPI =  1.11289 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.32014 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0013786 W
+- Energy -  energy is 543.732892 mJ
+--- Benchmark: 456hmmer - CPI =  1.17709 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.53157 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 1.24943e-05 W
+- Energy -  energy is 599.778357 mJ
+--- Benchmark: 458sjeng - CPI =  4.97248 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 0.781482 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0242844 W
+- Energy -  energy is 2186.578465 mJ
+--- Benchmark: 470lbm - CPI =  1.98911 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.05094 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0171283 W
+- Energy -  energy is 925.175516 mJ
+
+------ Machine #13 ------
+--- Benchmark: 401bzip2 - CPI =  1.51798 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 2.02243 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.0641756 W
+- Energy -  energy is 803.770410 mJ
+--- Benchmark: 429mcf - CPI =  1.09894 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 2.05169 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.00414374 W
+- Energy -  energy is 578.313878 mJ
+--- Benchmark: 456hmmer - CPI =  1.17546 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 2.13199 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 4.26859e-05 W
+- Energy -  energy is 627.521133 mJ
+--- Benchmark: 458sjeng - CPI =  3.71467 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 1.93053 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.059716 W
+- Energy -  energy is 1937.308130 mJ
+--- Benchmark: 470lbm - CPI =  1.65385 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 1.84556 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.0378429 W
+- Energy -  energy is 843.710064 mJ
+
+------ Machine #0 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.60383 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.85762 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.186285 W
+- Energy -  energy is 813.284810 mJ
+
+--- Benchmark: 429mcf with CPI =  1.10248 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.85455 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.00910992 W
+- Energy -  energy is 538.886712 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.17723 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 2.10352 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.00722684 W
+- Energy -  energy is 604.462870 mJ
+
+--- Benchmark: 458sjeng with CPI =  3.71585 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.51223 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.116216 W
+- Energy -  energy is 1735.677251 mJ
+
+--- Benchmark: 470lbm with CPI =  1.65512 ---
+- Core Data -
+      Area = 37.6015 mm^2
+      Subthreshold Leakage = 2.91049 W
+      Gate Leakage = 0.0186922 W
+      Runtime Dynamic = 1.74124 W
+- L2 Data -
+      Area = 41.0389 mm^2
+      Subthreshold Leakage = 0.0246046 W
+      Gate Leakage = 0.00569396 W
+      Runtime Dynamic = 0.0737266 W
+- Energy -  energy is 802.837473 mJ
+
+------ Machine #1 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.53747 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.499585 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0104672 W
+- Energy -  energy is 479.262916 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13880 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.500981 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.000868803 W
+- Energy -  energy is 353.673161 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18263 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.559397 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00024668 W
+- Energy -  energy is 374.025984 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.05754 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.207781 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.025636 W
+- Energy -  energy is 2029.421792 mJ
+
+--- Benchmark: 470lbm with CPI =  2.62833 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.297759 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0079842 W
+- Energy -  energy is 772.186533 mJ
+
+------ Machine #2 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.59488 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.415802 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0193497 W
+- Energy -  energy is 448.583068 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13756 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.430686 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00107155 W
+- Energy -  energy is 319.200019 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18990 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.48201 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00270827 W
+- Energy -  energy is 340.093648 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.05754 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.18007 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0256472 W
+- Energy -  energy is 1847.874082 mJ
+
+--- Benchmark: 470lbm with CPI =  2.63117 ---
+- Core Data -
+      Area = 15.9377 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.257798 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0080438 W
+- Energy -  energy is 702.117716 mJ
+
+------ Machine #3 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.53748 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.499582 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0104686 W
+- Energy -  energy is 443.974563 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13559 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.493406 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00170562 W
+- Energy -  energy is 325.841879 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18263 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.559389 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.000254125 W
+- Energy -  energy is 346.879665 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.05756 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.20778 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0256361 W
+- Energy -  energy is 1867.427376 mJ
+
+--- Benchmark: 470lbm with CPI =  2.62833 ---
+- Core Data -
+      Area = 16.0884 mm^2
+      Subthreshold Leakage = 2.28171 W
+      Gate Leakage = 0.0173334 W
+      Runtime Dynamic = 0.297759 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0193248 W
+- Energy -  energy is 714.836635 mJ
+
+------ Machine #4 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.56092 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.492039 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.0074136 W
+- Energy -  energy is 484.395309 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13766 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.492507 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.000731789 W
+- Energy -  energy is 351.834552 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18262 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.559402 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.000178734 W
+- Energy -  energy is 373.450192 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.05935 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.207727 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.0208712 W
+- Energy -  energy is 2023.243595 mJ
+
+--- Benchmark: 470lbm with CPI =  2.63077 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.297483 W
+- L2 Data -
+      Area = 7.47733 mm^2
+      Subthreshold Leakage = 0.00460747 W
+      Gate Leakage = 0.000556536 W
+      Runtime Dynamic = 0.00777041 W
+- Energy -  energy is 771.599882 mJ
+
+------ Machine #5 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.57986 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.486153 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.00532681 W
+- Energy -  energy is 488.872194 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13940 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.491757 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.000648279 W
+- Energy -  energy is 352.090438 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18262 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.559402 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.000120289 W
+- Energy -  energy is 373.205506 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.06012 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.207705 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.0168171 W
+- Energy -  energy is 2019.207734 mJ
+
+--- Benchmark: 470lbm with CPI =  2.63262 ---
+- Core Data -
+      Area = 17.5954 mm^2
+      Subthreshold Leakage = 2.50962 W
+      Gate Leakage = 0.0189625 W
+      Runtime Dynamic = 0.297274 W
+- L2 Data -
+      Area = 4.17438 mm^2
+      Subthreshold Leakage = 0.00275444 W
+      Gate Leakage = 0.000392649 W
+      Runtime Dynamic = 0.00764785 W
+- Energy -  energy is 771.564619 mJ
+
+------ Machine #6 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.52644 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.627496 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00768571 W
+- Energy -  energy is 565.397385 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13392 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.611864 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00067579 W
+- Energy -  energy is 417.055032 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18216 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.69253 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.000166747 W
+- Energy -  energy is 444.178980 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.03832 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.268131 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.0254449 W
+- Energy -  energy is 2391.223349 mJ
+
+--- Benchmark: 470lbm with CPI =  2.62712 ---
+- Core Data -
+      Area = 23.8415 mm^2
+      Subthreshold Leakage = 2.96773 W
+      Gate Leakage = 0.022475 W
+      Runtime Dynamic = 0.371406 W
+- L2 Data -
+      Area = 12.8813 mm^2
+      Subthreshold Leakage = 0.00886875 W
+      Gate Leakage = 0.00107422 W
+      Runtime Dynamic = 0.00793762 W
+- Energy -  energy is 912.449275 mJ
+
+------ Machine #7 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.63820 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.252279 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.00626062 W
+- Energy -  energy is 330.179210 mJ
+
+--- Benchmark: 429mcf with CPI =  1.15266 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.28372 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.0005893 W
+- Energy -  energy is 234.703784 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18598 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.307516 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.000165917 W
+- Energy -  energy is 244.071482 mJ
+
+--- Benchmark: 458sjeng with CPI = 11.66498 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.0711894 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.00554513 W
+- Energy -  energy is 2186.346204 mJ
+
+--- Benchmark: 470lbm with CPI =  3.91979 ---
+- Core Data -
+      Area = 16.0588 mm^2
+      Subthreshold Leakage = 1.66546 W
+      Gate Leakage = 0.0113064 W
+      Runtime Dynamic = 0.112725 W
+- L2 Data -
+      Area = 13.211 mm^2
+      Subthreshold Leakage = 0.00816516 W
+      Gate Leakage = 0.000776381 W
+      Runtime Dynamic = 0.00464186 W
+- Energy -  energy is 747.404782 mJ
+
+------ Machine #8 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.53311 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 1.27123 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.0253606 W
+- Energy -  energy is 1004.262590 mJ
+
+--- Benchmark: 429mcf with CPI =  1.11498 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 1.20803 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.00193643 W
+- Energy -  energy is 720.447672 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.17817 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 1.3984 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.000437962 W
+- Energy -  energy is 783.488522 mJ
+
+--- Benchmark: 458sjeng with CPI =  5.01106 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 0.711896 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.0477418 W
+- Energy -  energy is 3025.861934 mJ
+
+--- Benchmark: 470lbm with CPI =  1.99147 ---
+- Core Data -
+      Area = 36.1509 mm^2
+      Subthreshold Leakage = 5.1311 W
+      Gate Leakage = 0.0422332 W
+      Runtime Dynamic = 0.96084 W
+- L2 Data -
+      Area = 18.1823 mm^2
+      Subthreshold Leakage = 0.0116336 W
+      Gate Leakage = 0.00178194 W
+      Runtime Dynamic = 0.0174254 W
+- Energy -  energy is 1244.418099 mJ
+
+------ Machine #9 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.53477 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.500792 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.0054123 W
+- Energy -  energy is 479.634865 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13403 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.494643 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.000714191 W
+- Energy -  energy is 352.788681 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18143 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.560601 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 2.96883e-05 W
+- Energy -  energy is 375.154930 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.03840 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.208611 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.0104919 W
+- Energy -  energy is 2022.206927 mJ
+
+--- Benchmark: 470lbm with CPI =  2.62076 ---
+- Core Data -
+      Area = 17.6483 mm^2
+      Subthreshold Leakage = 2.52133 W
+      Gate Leakage = 0.0190255 W
+      Runtime Dynamic = 0.298971 W
+- L2 Data -
+      Area = 12.8774 mm^2
+      Subthreshold Leakage = 0.00887322 W
+      Gate Leakage = 0.00107583 W
+      Runtime Dynamic = 0.0079505 W
+- Energy -  energy is 773.380510 mJ
+
+------ Machine #10 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.53304 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.562776 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.00524748 W
+- Energy -  energy is 432.092289 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13387 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.550879 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.000706485 W
+- Energy -  energy is 317.346593 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18135 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.627432 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 7.67215e-06 W
+- Energy -  energy is 339.501954 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.03865 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.234476 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.0106507 W
+- Energy -  energy is 1781.298606 mJ
+
+--- Benchmark: 470lbm with CPI =  2.62076 ---
+- Core Data -
+      Area = 24.8691 mm^2
+      Subthreshold Leakage = 2.1569 W
+      Gate Leakage = 0.0149794 W
+      Runtime Dynamic = 0.334798 W
+- L2 Data -
+      Area = 13.1659 mm^2
+      Subthreshold Leakage = 0.0089513 W
+      Gate Leakage = 0.0010833 W
+      Runtime Dynamic = 0.00807119 W
+- Energy -  energy is 686.255441 mJ
+
+------ Machine #11 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.53330 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.684361 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.00527964 W
+- Energy -  energy is 505.824863 mJ
+
+--- Benchmark: 429mcf with CPI =  1.13387 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.658608 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.000709866 W
+- Energy -  energy is 370.237786 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.18134 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.761073 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 4.11821e-06 W
+- Energy -  energy is 397.664856 mJ
+
+--- Benchmark: 458sjeng with CPI =  7.03906 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.279748 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.0107879 W
+- Energy -  energy is 2065.876826 mJ
+
+--- Benchmark: 470lbm with CPI =  2.62076 ---
+- Core Data -
+      Area = 33.6123 mm^2
+      Subthreshold Leakage = 2.51266 W
+      Gate Leakage = 0.0177753 W
+      Runtime Dynamic = 0.40463 W
+- L2 Data -
+      Area = 13.3224 mm^2
+      Subthreshold Leakage = 0.00910636 W
+      Gate Leakage = 0.00110378 W
+      Runtime Dynamic = 0.00817559 W
+- Energy -  energy is 798.598511 mJ
+
+------ Machine #12 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.52692 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.39563 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0135256 W
+- Energy -  energy is 759.740423 mJ
+
+--- Benchmark: 429mcf with CPI =  1.11289 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.32014 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0013786 W
+- Energy -  energy is 543.732892 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.17709 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.53157 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 1.24943e-05 W
+- Energy -  energy is 599.778357 mJ
+
+--- Benchmark: 458sjeng with CPI =  4.97248 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 0.781482 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0242844 W
+- Energy -  energy is 2186.578465 mJ
+
+--- Benchmark: 470lbm with CPI =  1.98911 ---
+- Core Data -
+      Area = 47.5091 mm^2
+      Subthreshold Leakage = 3.46055 W
+      Gate Leakage = 0.0253457 W
+      Runtime Dynamic = 1.05094 W
+- L2 Data -
+      Area = 18.5988 mm^2
+      Subthreshold Leakage = 0.0117038 W
+      Gate Leakage = 0.00179366 W
+      Runtime Dynamic = 0.0171283 W
+- Energy -  energy is 925.175516 mJ
+
+------ Machine #13 ------
+
+--- Benchmark: 401bzip2 with CPI =  1.51798 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 2.02243 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.0641756 W
+- Energy -  energy is 803.770410 mJ
+
+--- Benchmark: 429mcf with CPI =  1.09894 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 2.05169 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.00414374 W
+- Energy -  energy is 578.313878 mJ
+
+--- Benchmark: 456hmmer with CPI =  1.17546 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 2.13199 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 4.26859e-05 W
+- Energy -  energy is 627.521133 mJ
+
+--- Benchmark: 458sjeng with CPI =  3.71467 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 1.93053 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.059716 W
+- Energy -  energy is 1937.308130 mJ
+
+--- Benchmark: 470lbm with CPI =  1.65385 ---
+- Core Data -
+      Area = 37.0374 mm^2
+      Subthreshold Leakage = 3.07114 W
+      Gate Leakage = 0.0189889 W
+      Runtime Dynamic = 1.84556 W
+- L2 Data -
+      Area = 83.8533 mm^2
+      Subthreshold Leakage = 0.0425755 W
+      Gate Leakage = 0.00935023 W
+      Runtime Dynamic = 0.0378429 W
+- Energy -  energy is 843.710064 mJ
+
