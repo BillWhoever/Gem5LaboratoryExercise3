@@ -335,7 +335,7 @@ Machine 14
 <img src="Part2Data/GraphsAndData/GraphAssociativity.png"/>
 <img src="Part2Data/GraphsAndData/GraphAssociativityImprovement.png"/>
 
-Παρατηρούμε ότι 2-way είναι η μεγαλύτερη τιμή που μπορούμε να δώσουμε χωρίς να καταχρώμαστε το εμβαδό σιλικόνης που θα απαιτηθεί. Επιλέγουμε 1-way Associativity (?) ώς ιδανική λύση (?).
+Παρατηρούμε ότι 2-way είναι η μεγαλύτερη τιμή που μπορούμε να δώσουμε χωρίς να καταχρώμαστε το εμβαδό σιλικόνης που θα απαιτηθεί. Επιλέγουμε 1-way Associativity ώς ιδανική λύση (?).
 
 #### Μέγεθος Γραμμής Κρυφών Μνημών
 <img src="Part2Data/GraphsAndData/GraphCacheLine.png"/>
