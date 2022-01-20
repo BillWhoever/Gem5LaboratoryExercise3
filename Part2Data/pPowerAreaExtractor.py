@@ -13,10 +13,10 @@ runs = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13"
 
 with open("dataOutputB.txt", "a") as o:
 	for y in runs:
-		o.write("- Machine #{} -".format(y) )
+		o.write("Machine #{}".format(y) )
 		o.write("\n")
 		for x in benchmarks:
-			o.write("- Benchmark:-{}- CPI:-".format(x) )
+			o.write("Benchmark:-{}- CPI:-".format(x) )
 			a_file = open("gem5Output/{}/{}/stats.txt".format(x, y))	#opens the correct stats.txt file
 			lines_to_read = [28]
 			for position, line in enumerate(a_file):
@@ -27,6 +27,13 @@ with open("dataOutputB.txt", "a") as o:
 			lines_to_read = [15]
 			for position, line in enumerate(a_file):
 				if position in lines_to_read:
-					line = line [14 : 26]				
+					line = line [14 : -1]				
 					o.write("- PeakPower:-{}".format(line) )	#print Peak Power
+			a_file = open("McPatOutput/results{}{}.txt".format(x, y))	#opens the correct resultsxx.txt file
+			lines_to_read = [14]
+			for position, line in enumerate(a_file):
+				if position in lines_to_read:
+					line = line [8 : -1]				
+					o.write("-Area:-{}".format(line) )	#print Area
+			o.write("\n")
 	print('process is completed')

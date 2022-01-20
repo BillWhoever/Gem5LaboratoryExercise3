@@ -1,84 +1,84 @@
-- Machine #0 -
-- Benchmark:-401bzip2- CPI:- 1.60383- PeakPower:- 31.158 W
-- Benchmark:-429mcf- CPI:- 1.10248- PeakPower:- 31.158 W
-- Benchmark:-456hmmer- CPI:- 1.17723- PeakPower:- 31.158 W
-- Benchmark:-458sjeng- CPI:- 3.71585- PeakPower:- 31.158 W
-- Benchmark:-470lbm- CPI:- 1.65512- PeakPower:- 31.158 W
-- Machine #1 -
-- Benchmark:-401bzip2- CPI:- 1.53747- PeakPower:- 6.7837 W
-- Benchmark:-429mcf- CPI:- 1.13880- PeakPower:- 6.7837 W
-- Benchmark:-456hmmer- CPI:- 1.18263- PeakPower:- 6.7837 W
-- Benchmark:-458sjeng- CPI:- 7.05754- PeakPower:- 6.7837 W
-- Benchmark:-470lbm- CPI:- 2.62833- PeakPower:- 6.7837 W
-- Machine #2 -
-- Benchmark:-401bzip2- CPI:- 1.59488- PeakPower:- 6.41115 W
-- Benchmark:-429mcf- CPI:- 1.13756- PeakPower:- 6.41115 W
-- Benchmark:-456hmmer- CPI:- 1.18990- PeakPower:- 6.41115 W
-- Benchmark:-458sjeng- CPI:- 7.05754- PeakPower:- 6.41115 W
-- Benchmark:-470lbm- CPI:- 2.63117- PeakPower:- 6.41115 W
-- Machine #3 -
-- Benchmark:-401bzip2- CPI:- 1.53748- PeakPower:- 6.37294 W
-- Benchmark:-429mcf- CPI:- 1.13559- PeakPower:- 6.37294 W
-- Benchmark:-456hmmer- CPI:- 1.18263- PeakPower:- 6.37294 W
-- Benchmark:-458sjeng- CPI:- 7.05756- PeakPower:- 6.37294 W
-- Benchmark:-470lbm- CPI:- 2.62833- PeakPower:- 6.37294 W
-- Machine #4 -
-- Benchmark:-401bzip2- CPI:- 1.56092- PeakPower:- 6.65902 W
-- Benchmark:-429mcf- CPI:- 1.13766- PeakPower:- 6.65902 W
-- Benchmark:-456hmmer- CPI:- 1.18262- PeakPower:- 6.65902 W
-- Benchmark:-458sjeng- CPI:- 7.05935- PeakPower:- 6.65902 W
-- Benchmark:-470lbm- CPI:- 2.63077- PeakPower:- 6.65902 W
-- Machine #5 -
-- Benchmark:-401bzip2- CPI:- 1.57986- PeakPower:- 6.55378 W
-- Benchmark:-429mcf- CPI:- 1.13940- PeakPower:- 6.55378 W
-- Benchmark:-456hmmer- CPI:- 1.18262- PeakPower:- 6.55378 W
-- Benchmark:-458sjeng- CPI:- 7.06012- PeakPower:- 6.55378 W
-- Benchmark:-470lbm- CPI:- 2.63262- PeakPower:- 6.55378 W
-- Machine #6 -
-- Benchmark:-401bzip2- CPI:- 1.52644- PeakPower:- 7.51131 W
-- Benchmark:-429mcf- CPI:- 1.13392- PeakPower:- 7.51131 W
-- Benchmark:-456hmmer- CPI:- 1.18216- PeakPower:- 7.51131 W
-- Benchmark:-458sjeng- CPI:- 7.03832- PeakPower:- 7.51131 W
-- Benchmark:-470lbm- CPI:- 2.62712- PeakPower:- 7.51131 W
-- Machine #7 -
-- Benchmark:-401bzip2- CPI:- 1.63820- PeakPower:- 3.83227 W
-- Benchmark:-429mcf- CPI:- 1.15266- PeakPower:- 3.83227 W
-- Benchmark:-456hmmer- CPI:- 1.18598- PeakPower:- 3.83227 W
-- Benchmark:-458sjeng- CPI:-11.66498- PeakPower:- 3.83227 W
-- Benchmark:-470lbm- CPI:- 3.91979- PeakPower:- 3.83227 W
-- Machine #8 -
-- Benchmark:-401bzip2- CPI:- 1.53311- PeakPower:- 16.5458 W
-- Benchmark:-429mcf- CPI:- 1.11498- PeakPower:- 16.5458 W
-- Benchmark:-456hmmer- CPI:- 1.17817- PeakPower:- 16.5458 W
-- Benchmark:-458sjeng- CPI:- 5.01106- PeakPower:- 16.5458 W
-- Benchmark:-470lbm- CPI:- 1.99147- PeakPower:- 16.5458 W
-- Machine #9 -
-- Benchmark:-401bzip2- CPI:- 1.53477- PeakPower:- 6.7985 W
-- Benchmark:-429mcf- CPI:- 1.13403- PeakPower:- 6.7985 W
-- Benchmark:-456hmmer- CPI:- 1.18143- PeakPower:- 6.7985 W
-- Benchmark:-458sjeng- CPI:- 7.03840- PeakPower:- 6.7985 W
-- Benchmark:-470lbm- CPI:- 2.62076- PeakPower:- 6.7985 W
-- Machine #10 -
-- Benchmark:-401bzip2- CPI:- 1.53304- PeakPower:- 6.72081 W
-- Benchmark:-429mcf- CPI:- 1.13387- PeakPower:- 6.72081 W
-- Benchmark:-456hmmer- CPI:- 1.18135- PeakPower:- 6.72081 W
-- Benchmark:-458sjeng- CPI:- 7.03865- PeakPower:- 6.72081 W
-- Benchmark:-470lbm- CPI:- 2.62076- PeakPower:- 6.72081 W
-- Machine #11 -
-- Benchmark:-401bzip2- CPI:- 1.53330- PeakPower:- 7.65906 W
-- Benchmark:-429mcf- CPI:- 1.13387- PeakPower:- 7.65906 W
-- Benchmark:-456hmmer- CPI:- 1.18134- PeakPower:- 7.65906 W
-- Benchmark:-458sjeng- CPI:- 7.03906- PeakPower:- 7.65906 W
-- Benchmark:-470lbm- CPI:- 2.62076- PeakPower:- 7.65906 W
-- Machine #12 -
-- Benchmark:-401bzip2- CPI:- 1.52692- PeakPower:- 15.4302 W
-- Benchmark:-429mcf- CPI:- 1.11289- PeakPower:- 15.4302 W
-- Benchmark:-456hmmer- CPI:- 1.17709- PeakPower:- 15.4302 W
-- Benchmark:-458sjeng- CPI:- 4.97248- PeakPower:- 15.4302 W
-- Benchmark:-470lbm- CPI:- 1.98911- PeakPower:- 15.4302 W
-- Machine #13 -
-- Benchmark:-401bzip2- CPI:- 1.51798- PeakPower:- 32.8744 W
-- Benchmark:-429mcf- CPI:- 1.09894- PeakPower:- 32.8744 W
-- Benchmark:-456hmmer- CPI:- 1.17546- PeakPower:- 32.8744 W
-- Benchmark:-458sjeng- CPI:- 3.71467- PeakPower:- 32.8744 W
-- Benchmark:-470lbm- CPI:- 1.65385- PeakPower:- 32.8744 W
+Machine #0
+Benchmark:-401bzip2- CPI:- 1.60383- PeakPower:- 31.158 W-Area:- 80.3662 mm^2
+Benchmark:-429mcf- CPI:- 1.10248- PeakPower:- 31.158 W-Area:- 80.3662 mm^2
+Benchmark:-456hmmer- CPI:- 1.17723- PeakPower:- 31.158 W-Area:- 80.3662 mm^2
+Benchmark:-458sjeng- CPI:- 3.71585- PeakPower:- 31.158 W-Area:- 80.3662 mm^2
+Benchmark:-470lbm- CPI:- 1.65512- PeakPower:- 31.158 W-Area:- 80.3662 mm^2
+Machine #1
+Benchmark:-401bzip2- CPI:- 1.53747- PeakPower:- 6.7837 W-Area:- 32.2026 mm^2
+Benchmark:-429mcf- CPI:- 1.13880- PeakPower:- 6.7837 W-Area:- 32.2026 mm^2
+Benchmark:-456hmmer- CPI:- 1.18263- PeakPower:- 6.7837 W-Area:- 32.2026 mm^2
+Benchmark:-458sjeng- CPI:- 7.05754- PeakPower:- 6.7837 W-Area:- 32.2026 mm^2
+Benchmark:-470lbm- CPI:- 2.62833- PeakPower:- 6.7837 W-Area:- 32.2026 mm^2
+Machine #2
+Benchmark:-401bzip2- CPI:- 1.59488- PeakPower:- 6.41115 W-Area:- 30.545 mm^2
+Benchmark:-429mcf- CPI:- 1.13756- PeakPower:- 6.41115 W-Area:- 30.545 mm^2
+Benchmark:-456hmmer- CPI:- 1.18990- PeakPower:- 6.41115 W-Area:- 30.545 mm^2
+Benchmark:-458sjeng- CPI:- 7.05754- PeakPower:- 6.41115 W-Area:- 30.545 mm^2
+Benchmark:-470lbm- CPI:- 2.63117- PeakPower:- 6.41115 W-Area:- 30.545 mm^2
+Machine #3
+Benchmark:-401bzip2- CPI:- 1.53748- PeakPower:- 6.37294 W-Area:- 30.6957 mm^2
+Benchmark:-429mcf- CPI:- 1.13559- PeakPower:- 6.37294 W-Area:- 30.6957 mm^2
+Benchmark:-456hmmer- CPI:- 1.18263- PeakPower:- 6.37294 W-Area:- 30.6957 mm^2
+Benchmark:-458sjeng- CPI:- 7.05756- PeakPower:- 6.37294 W-Area:- 30.6957 mm^2
+Benchmark:-470lbm- CPI:- 2.62833- PeakPower:- 6.37294 W-Area:- 30.6957 mm^2
+Machine #4
+Benchmark:-401bzip2- CPI:- 1.56092- PeakPower:- 6.65902 W-Area:- 26.7986 mm^2
+Benchmark:-429mcf- CPI:- 1.13766- PeakPower:- 6.65902 W-Area:- 26.7986 mm^2
+Benchmark:-456hmmer- CPI:- 1.18262- PeakPower:- 6.65902 W-Area:- 26.7986 mm^2
+Benchmark:-458sjeng- CPI:- 7.05935- PeakPower:- 6.65902 W-Area:- 26.7986 mm^2
+Benchmark:-470lbm- CPI:- 2.63077- PeakPower:- 6.65902 W-Area:- 26.7986 mm^2
+Machine #5
+Benchmark:-401bzip2- CPI:- 1.57986- PeakPower:- 6.55378 W-Area:- 23.4957 mm^2
+Benchmark:-429mcf- CPI:- 1.13940- PeakPower:- 6.55378 W-Area:- 23.4957 mm^2
+Benchmark:-456hmmer- CPI:- 1.18262- PeakPower:- 6.55378 W-Area:- 23.4957 mm^2
+Benchmark:-458sjeng- CPI:- 7.06012- PeakPower:- 6.55378 W-Area:- 23.4957 mm^2
+Benchmark:-470lbm- CPI:- 2.63262- PeakPower:- 6.55378 W-Area:- 23.4957 mm^2
+Machine #6
+Benchmark:-401bzip2- CPI:- 1.52644- PeakPower:- 7.51131 W-Area:- 38.4487 mm^2
+Benchmark:-429mcf- CPI:- 1.13392- PeakPower:- 7.51131 W-Area:- 38.4487 mm^2
+Benchmark:-456hmmer- CPI:- 1.18216- PeakPower:- 7.51131 W-Area:- 38.4487 mm^2
+Benchmark:-458sjeng- CPI:- 7.03832- PeakPower:- 7.51131 W-Area:- 38.4487 mm^2
+Benchmark:-470lbm- CPI:- 2.62712- PeakPower:- 7.51131 W-Area:- 38.4487 mm^2
+Machine #7
+Benchmark:-401bzip2- CPI:- 1.63820- PeakPower:- 3.83227 W-Area:- 30.9957 mm^2
+Benchmark:-429mcf- CPI:- 1.15266- PeakPower:- 3.83227 W-Area:- 30.9957 mm^2
+Benchmark:-456hmmer- CPI:- 1.18598- PeakPower:- 3.83227 W-Area:- 30.9957 mm^2
+Benchmark:-458sjeng- CPI:-11.66498- PeakPower:- 3.83227 W-Area:- 30.9957 mm^2
+Benchmark:-470lbm- CPI:- 3.91979- PeakPower:- 3.83227 W-Area:- 30.9957 mm^2
+Machine #8
+Benchmark:-401bzip2- CPI:- 1.53311- PeakPower:- 16.5458 W-Area:- 56.0591 mm^2
+Benchmark:-429mcf- CPI:- 1.11498- PeakPower:- 16.5458 W-Area:- 56.0591 mm^2
+Benchmark:-456hmmer- CPI:- 1.17817- PeakPower:- 16.5458 W-Area:- 56.0591 mm^2
+Benchmark:-458sjeng- CPI:- 5.01106- PeakPower:- 16.5458 W-Area:- 56.0591 mm^2
+Benchmark:-470lbm- CPI:- 1.99147- PeakPower:- 16.5458 W-Area:- 56.0591 mm^2
+Machine #9
+Benchmark:-401bzip2- CPI:- 1.53477- PeakPower:- 6.7985 W-Area:- 32.2516 mm^2
+Benchmark:-429mcf- CPI:- 1.13403- PeakPower:- 6.7985 W-Area:- 32.2516 mm^2
+Benchmark:-456hmmer- CPI:- 1.18143- PeakPower:- 6.7985 W-Area:- 32.2516 mm^2
+Benchmark:-458sjeng- CPI:- 7.03840- PeakPower:- 6.7985 W-Area:- 32.2516 mm^2
+Benchmark:-470lbm- CPI:- 2.62076- PeakPower:- 6.7985 W-Area:- 32.2516 mm^2
+Machine #10
+Benchmark:-401bzip2- CPI:- 1.53304- PeakPower:- 6.72081 W-Area:- 39.7609 mm^2
+Benchmark:-429mcf- CPI:- 1.13387- PeakPower:- 6.72081 W-Area:- 39.7609 mm^2
+Benchmark:-456hmmer- CPI:- 1.18135- PeakPower:- 6.72081 W-Area:- 39.7609 mm^2
+Benchmark:-458sjeng- CPI:- 7.03865- PeakPower:- 6.72081 W-Area:- 39.7609 mm^2
+Benchmark:-470lbm- CPI:- 2.62076- PeakPower:- 6.72081 W-Area:- 39.7609 mm^2
+Machine #11
+Benchmark:-401bzip2- CPI:- 1.53330- PeakPower:- 7.65906 W-Area:- 48.6607 mm^2
+Benchmark:-429mcf- CPI:- 1.13387- PeakPower:- 7.65906 W-Area:- 48.6607 mm^2
+Benchmark:-456hmmer- CPI:- 1.18134- PeakPower:- 7.65906 W-Area:- 48.6607 mm^2
+Benchmark:-458sjeng- CPI:- 7.03906- PeakPower:- 7.65906 W-Area:- 48.6607 mm^2
+Benchmark:-470lbm- CPI:- 2.62076- PeakPower:- 7.65906 W-Area:- 48.6607 mm^2
+Machine #12
+Benchmark:-401bzip2- CPI:- 1.52692- PeakPower:- 15.4302 W-Area:- 67.8338 mm^2
+Benchmark:-429mcf- CPI:- 1.11289- PeakPower:- 15.4302 W-Area:- 67.8338 mm^2
+Benchmark:-456hmmer- CPI:- 1.17709- PeakPower:- 15.4302 W-Area:- 67.8338 mm^2
+Benchmark:-458sjeng- CPI:- 4.97248- PeakPower:- 15.4302 W-Area:- 67.8338 mm^2
+Benchmark:-470lbm- CPI:- 1.98911- PeakPower:- 15.4302 W-Area:- 67.8338 mm^2
+Machine #13
+Benchmark:-401bzip2- CPI:- 1.51798- PeakPower:- 32.8744 W-Area:- 122.617 mm^2
+Benchmark:-429mcf- CPI:- 1.09894- PeakPower:- 32.8744 W-Area:- 122.617 mm^2
+Benchmark:-456hmmer- CPI:- 1.17546- PeakPower:- 32.8744 W-Area:- 122.617 mm^2
+Benchmark:-458sjeng- CPI:- 3.71467- PeakPower:- 32.8744 W-Area:- 122.617 mm^2
+Benchmark:-470lbm- CPI:- 1.65385- PeakPower:- 32.8744 W-Area:- 122.617 mm^2
