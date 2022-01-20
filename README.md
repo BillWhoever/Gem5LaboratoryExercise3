@@ -332,26 +332,26 @@ Machine 14
 Γραφήματα με τις Συγκρίσεις Τιμών των Παραμέτρων
 ------------------------------------------------
 #### Συσχέτιση Μνημών
-<img src="Part2Data/GraphsAndData/GraphAssociativity.png"/>
-<img src="Part2Data/GraphsAndData/GraphAssociativityImprovement.png"/>
+<img src="Part2/charts/GraphAssociativity.png"/>
+<img src="Part2/charts/GraphAssociativityImprovement.png"/>
 
 Παρατηρούμε ότι 2-way είναι η μεγαλύτερη τιμή που μπορούμε να δώσουμε χωρίς να καταχρώμαστε το εμβαδό σιλικόνης που θα απαιτηθεί. Επιλέγουμε 2-way Associativity ώς ιδανική λύση (?).
 
 #### Μέγεθος Γραμμής Κρυφών Μνημών
-<img src="Part2Data/GraphsAndData/GraphCacheLine.png"/>
-<img src="Part2Data/GraphsAndData/GraphCacheLineImprovement.png"/>
+<img src="Part2/charts/GraphCacheLine.png"/>
+<img src="Part2/charts/GraphCacheLineImprovement.png"/>
 
 Παρατηρούμε ότι επεξεργαστές με μεγαλύτερη γραμμή μνημών απαιτούν πολύ μεγαλύτερο εμβαδό αλλά και ισχύ. Θεωρούμε ιδανική τιμή το 32 (?) για την Γραμμή των Κρυφών Μνημών.
 
 #### Μέγεθος L1 Κρυφής Μνήμης Δεδομένων
-<img src="Part2Data/GraphsAndData/GraphL1dSize.png"/>
-<img src="Part2Data/GraphsAndData/GraphL1dSizeImprovement.png"/>
+<img src="Part2/charts/GraphL1dSize.png"/>
+<img src="Part2/charts/GraphL1dSizeImprovement.png"/>
 
 Παρατηρούμε ότι μεγαλύτερα μεγέθη της Κρυφής Μνήμης Πρώτου επιπέδου προκαλούν αύξηση τόσο στην κατανάλωση ισχύος όσο και στο εμβαδό που θα καταλαμβάνει ο επεξεργαστής. Λόγο των μηδαμινών βελτιώσεων επιλέγουμε τα 128kB ως ιδανική τιμή (?).
 
 #### Μέγεθος L2 Κρυφής Μνήμης
-<img src="Part2Data/GraphsAndData/GraphL2Size.png"/>
-<img src="Part2Data/GraphsAndData/GraphL2SizeImprovement.png"/>
+<img src="Part2/charts/GraphL2Size.png"/>
+<img src="Part2/charts/GraphL2SizeImprovement.png"/>
 
 Παρατηρούμε ότι μεγαλύτερα μεγέθη της Κρυφής Μνήμης Δεύτερου επιπέδου προκαλούν αύξηση τόσο στην κατανάλωση ισχύος όσο και στο εμβαδό που θα καταλαμβάνει ο επεξεργαστής. Ταυτόχρωνα επιφέρουν μικρή βελτίωση επιδώσεων στα περισσότερα benchmark. Λόγο των μηδαμινών βελτιώσεων επιλέγουμε τα 1024kB ως ιδανική τιμή (?).
 
